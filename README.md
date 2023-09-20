@@ -19,10 +19,10 @@ https://forum.linuxcnc.org/24-hal-components/37042-adding-a-shuttlexpress?start=
 
 I'm sure that I had seen it before, but it was only until I read the last post by "mudnaes" I realized that the John Dammeyers post actually contained an attachment.
 
-I tested it out at it gaves some errors. I fixed those at it worked! If I had read the last post by "mudnaes" carefully I would have seen that he mentions those errors:
+I tested it out at it gaves some errors. I fixed those and it worked! If I had read the last post by "mudnaes" carefully I would have seen that he mentions those errors:
 "If you dont have A-axis just comment out anything to do with joint.3. If you dont, you will get an error when starting LinuxCNC."
 
-Anyway, I've pushed this file to github. But John Dammeyer deserves all credit.
+Anyway, I've pushed this file to github to keep it stored somewhere. But John Dammeyer deserves all credit.
 
 
 
