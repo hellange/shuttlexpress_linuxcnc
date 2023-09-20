@@ -1,5 +1,5 @@
 # shuttlexpress_linuxcnc
-HAL file for using shuttlexpress as pendant in linuxcnc
+HAL file for using shuttlexpress as pendant in linuxcnc 2.8
 
 Being new to linuxcnc, I wanted to test out using a pendant to controll my cnc router.
 I purchased a Shuttlexpress, because I had seen reviews and though it would work "out-of-the-box".
@@ -12,6 +12,7 @@ Some quick searches gave me that information, but finding a HAL file that worked
 
 Changes in HAL API between different linuxcnc revisions makes things even more complicated because a lot of information
 out there cannot be used as-is because the information is only correct for older versions of linixcnc.
+I'm using 2.8.
 
 But after struggling for some hours I found the info I needed in this post by John Dammeyer at the end of a "Adding a ShuttleXpress" thread:
 https://forum.linuxcnc.org/24-hal-components/37042-adding-a-shuttlexpress?start=30
